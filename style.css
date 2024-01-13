@@ -1,0 +1,79 @@
+
+
+h1,p{
+    text-align: center;
+}
+img{
+    width: 40%;
+    height: 400px;
+}
+
+
+#menu{
+    background-color: rgb(219, 219, 204);
+    display: flex;
+    font-size: larger;
+    border-radius: 10px;
+}
+#picture{
+    display: flex;
+    gap: 20px;
+    
+   
+}
+#mbar1{
+    width:80%;
+    height: 40px;
+    padding: 10px;
+    text-align: center;
+
+   
+}
+#mbar1:hover{
+    color: rgb(39, 17, 236);
+    background-color: rgb(233, 241, 241);
+}
+#mbar2{
+    width:80%;
+    height: 40px;
+    padding: 10px;
+    text-align: center;
+    background-color:  rgb(219, 219, 204);
+    
+}
+#mbar2:hover{
+    color: rgb(39, 17, 236);
+    background-color: rgb(233, 241, 241);
+}
+#mbar3{
+    width:80%;
+    height: 40px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(219, 219, 204);
+
+}
+#mbar3:hover{
+    color: rgb(39, 17, 236);
+    background-color: rgb(233, 241, 241);
+}
+#content{
+    width: 40%;
+    border-radius: 20px;
+    background-color: rgb(216, 228, 216);
+}
+
+
+#para1{
+    text-align: start;
+    margin-left: 30px;
+}
+#heading{
+    text-align: start;
+    margin-left: 30px;
+}
+
+.sty{
+    color: rgba(3, 3, 3, 0.747);
+    background-color: white;
+}
